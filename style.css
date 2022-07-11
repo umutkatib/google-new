@@ -1,0 +1,100 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+#solUst{
+   float: left;
+   position: absolute;
+   margin-left: 15px;
+   top: 0px;
+}
+
+#sagUst{
+
+    position: absolute;
+    right: 15px;
+    margin-right:15px;
+    top: 0px;
+}
+
+#searchInput{
+    width: 480px; 
+    height: 30px; 
+    border-radius: 35px;
+}
+
+.input2{
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+section{
+    text-align: center; margin-top: 150px;  
+}
+
+
+#signIn{
+    width: 60px;
+    font-size: 12px;
+    background-color: #1a73e8;
+}
+
+#searchLogo{
+    position: absolute;
+    padding-top: 167px;
+    padding-left: 537px;
+    width:20px; 
+    height:20px;
+}
+
+#voiceLogo{
+    position: absolute;
+    width: 35px;
+    height: 20px;
+    padding-top: 167px;
+    padding-left: 970px;
+}
+
+input{
+    margin-top: 25px;
+}
+
+#sagAlt{
+    text-align: end;
+    margin-right: 15px;
+}
+
+#solAlt{
+    margin-left: 15px;
+    position: absolute;
+    bottom: 0px;
+}
+
+
+#altDiv{
+    background-color: rgb(214, 214, 214);
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+}
+
+a{
+    text-decoration: none;
+    color: #70757a;
+}
